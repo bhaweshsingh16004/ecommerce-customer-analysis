@@ -1,0 +1,4 @@
+ecommerce-customer-analysis/
+│── ecommerce_analysis.ipynb
+│── ecommerce_data.csv
+│── README.md
